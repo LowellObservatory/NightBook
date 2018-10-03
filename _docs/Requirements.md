@@ -1,3 +1,5 @@
+## *NightBook* Requirements
+
 *NightBook* will be a system for recording (from the DOL User Manual):
 
 > the general happenings during each night of observation or maintenance session. This includes weather updates,
@@ -42,6 +44,7 @@
        * Instrument
        * Telescope
      * Unclassified
-5. *NightBook* will give the user a window to type in comments on the various
-6. *NightBook* will keep up-to-date information of all logs on disk at all times to enable recovery from
+5. *NightBook* will give the user a window to type in comments on the various categories.
+6. *Nightbook* will allow the user to use voice recognition for input if desired.
+7. *NightBook* will keep up-to-date information of all logs on disk at all times to enable recovery from
    power outages or computer crashes.
