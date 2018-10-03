@@ -43,3 +43,5 @@
        * Telescope
      * Unclassified
 5. *NightBook* will give the user a window to type in comments on the various
+6. *NightBook* will keep up-to-date information of all logs on disk at all times to enable recovery from
+   power outages or computer crashes.
