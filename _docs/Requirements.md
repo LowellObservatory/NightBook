@@ -8,7 +8,7 @@
 1. *NightBook* will be written in Python
 2. *NightBook* will have some kind of graphical user interface, probably PyQt but we should discuss it being
    a webapp that can be used in a browser.
-3. *NightBook* will store event information in an SQL database.
+3. *NightBook* will store event information in an SQL database, or some other easily searchable structure.
 4. *NightBook* will record information in four categories (from current DOL version, with sub-categories):
    * People
    * System
