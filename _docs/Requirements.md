@@ -48,3 +48,7 @@
 6. *Nightbook* will allow the user to use voice recognition for input if desired.
 7. *NightBook* will keep up-to-date information of all logs on disk at all times to enable recovery from
    power outages or computer crashes.
+   
+### Questions
+
+1. Can *NightBook* be used by the NPOI operators at all?
