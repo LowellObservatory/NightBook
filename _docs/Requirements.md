@@ -52,4 +52,9 @@
 ### Questions
 
 1. Can *NightBook* be used by the NPOI operators at all?
+
+Len says:
+
+(NPOI operators use the "obslog" system for logging activity throughout the night). It may be possible
+ to integrate the nightly obslog in to the "NightBook" log but I am uncertain of the motivation for doing so.
    
