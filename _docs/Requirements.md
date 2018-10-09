@@ -64,3 +64,12 @@
  
   * Teznie says that obslog is behind the firewall at NPOI and that the Navy would not let us change anything.
    
+2. How to we get errors like these into the log:
+
+   Dome:   
+   1&#041; 06:52    ComponentFault       DAS Error 6507:   
+   Error bit from SE Fine Sensor is true.
+   
+   
+   12:10    ComponentFault       CLS Error 56:   
+   LabVIEW:  The network operation exceeded the user-specified or system time limit.    
