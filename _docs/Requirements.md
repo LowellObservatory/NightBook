@@ -33,6 +33,8 @@
        * Instrument Failure
        * Telescope/Facility
        * Weather
+       * Smoke
+       * Threat of Precipitation
        * Other
    * Problems
      * Software
