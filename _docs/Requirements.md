@@ -55,10 +55,10 @@
 
 1. Can *NightBook* be used by the NPOI operators at all?
 
-- Len says:
+  * Len says:
 
-  (NPOI operators use the "obslog" system for logging activity throughout the night). It may be possible
-   to integrate the nightly obslog in to the "NightBook" log but I am uncertain of the motivation for doing so.
+    (NPOI operators use the "obslog" system for logging activity throughout the night). It may be possible
+     to integrate the nightly obslog in to the "NightBook" log but I am uncertain of the motivation for doing so.
  
-- Teznie says that obslog is behind the firewall at NPOI and that the Navy would not let us change anything.
+  * Teznie says that obslog is behind the firewall at NPOI and that the Navy would not let us change anything.
    
