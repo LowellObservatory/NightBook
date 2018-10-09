@@ -48,6 +48,8 @@
 6. *Nightbook* will allow the user to use voice recognition for input if desired.
 7. *NightBook* will keep up-to-date information of all logs on disk at all times to enable recovery from
    power outages or computer crashes.
+8. *NightBook* will present data in graphical plots where that makes sense.  Weather data is a good
+   example of this.
    
 ### Questions
 
