@@ -50,6 +50,8 @@
    power outages or computer crashes.
 8. *NightBook* will present data in graphical plots where that makes sense.  Weather data is a good
    example of this.
+9. *NightBook* will allow images to be attached during the night that will be delivered along
+   with the final report.
    
 ### Questions
 
