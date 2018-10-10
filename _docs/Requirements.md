@@ -75,3 +75,6 @@
    
    12:10    ComponentFault       CLS Error 56:   
    LabVIEW:  The network operation exceeded the user-specified or system time limit.    
+
+3. Could probably arrange it so *NightBook* automagically posts the resulting log into Confluence as part of the finishing steps. Is this desired?  
+    - It seems like they're being copy-and-pasted over by hand at present (e.g. [like this one here](https://jumar.lowell.edu/confluence/display/DCTDOC/20181009B+UT)).  This functionality depends almost wholly on Confluence itself but presuming the upgrade goes as planned this week I (Ryan) have high hopes.
